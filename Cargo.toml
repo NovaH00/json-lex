@@ -3,8 +3,8 @@ name = "json-lex"
 version = "0.1.0"
 edition = "2024"
 description = "A zero-copy, iterator-based JSON lexer with span tracking"
+repository = "https://github.com/NovaH00/json-lex"
 license = "MIT"
 keywords = ["json", "lexer", "tokenizer", "zero-copy", "iterator"]
-categories = ["parser-implementations", "parsing"]
 
 [dependencies]

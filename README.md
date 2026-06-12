@@ -45,6 +45,10 @@ cargo run --example print_tokens
 cargo run --example token_count
 ```
 
+## AI Usage
+Yes. I use AI to implement the draft design, and write documentations.
+
+
 ## License
 
 MIT
