@@ -1,0 +1,10 @@
+[package]
+name = "json-lex"
+version = "0.1.0"
+edition = "2024"
+description = "A zero-copy, iterator-based JSON lexer with span tracking"
+license = "MIT"
+keywords = ["json", "lexer", "tokenizer", "zero-copy", "iterator"]
+categories = ["parser-implementations", "parsing"]
+
+[dependencies]
